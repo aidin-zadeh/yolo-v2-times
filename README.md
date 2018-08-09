@@ -3,9 +3,13 @@
 **This repository is currently under re-construction and is continuously filled with content.**
 </span>
 
-<style>p{color:red;}</style>
-<p><em>foo</em></p>
+<table><tr><td>
+<pre>
+**Hello**,
 
+_world_.
+</pre>
+</td></tr></table>
 This repo contains an application of [YOLOv2 Keras/Tensorflow](https://github.com/experiencor/keras-yolo2.git) to times magazine detection.
 
 ## Dependencies:
