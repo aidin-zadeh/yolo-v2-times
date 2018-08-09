@@ -1,7 +1,7 @@
 # Times detector YOLOv2 Keras/Tensorflow
 <p>
 <span style="color:blue">
-This repository is currently under re-construction and is continuously filled with content.
+**This repository is currently under re-construction and is continuously filled with content.**
 </span>
 </p>
 
