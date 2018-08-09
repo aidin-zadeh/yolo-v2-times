@@ -3,7 +3,8 @@
 **This repository is currently under re-construction and is continuously filled with content.**
 </span>
 
-Some Markdown text with <span style="color:blue">some *blue* text</span>.
+<style>p{color:red;}</style>
+<p><em>foo</em></p>
 
 This repo contains an application of [YOLOv2 Keras/Tensorflow](https://github.com/experiencor/keras-yolo2.git) to times magazine detection.
 
