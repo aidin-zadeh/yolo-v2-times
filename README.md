@@ -1,15 +1,11 @@
 # Times detector YOLOv2 Keras/Tensorflow
 <span style="color:blue">
-**This repository is currently under re-construction and is continuously filled with content.**
+
 </span>
 
-<table><tr><td>
-<pre>
-**Hello**,
-
-_world_.
-</pre>
-</td></tr></table>
+```diff
+- **This repository is currently under re-construction and is continuously filled with content.**
+```
 This repo contains an application of [YOLOv2 Keras/Tensorflow](https://github.com/experiencor/keras-yolo2.git) to times magazine detection.
 
 ## Dependencies:
